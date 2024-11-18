@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759489504503",
+    "project_id": "campusolx-ec675",
+    "storage_bucket": "campusolx-ec675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759489504503:android:4c721b05b4685c5f465ff2",
+        "android_client_info": {
+          "package_name": "com.example.books"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7CxHJlVnlHEA85zi7qKbg_JcvrjHtSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
